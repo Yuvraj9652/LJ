@@ -8,7 +8,7 @@
 <body>
   <form action="#" method="get">
     <fieldset>
-      <legend>Information</legend>
+      <legend align="center">Information</legend>
       <label for="uname">Username</label>
       <input type="text" id="uname" name="uname" autofocus autocomplete="on" placeholder="User name" maxlength="20" required/>
       <br>
@@ -26,9 +26,66 @@
       <br>
       <br>
       <label>Date of Birth</label>
-      <input type="date" name="dob"/>
+      <input type="date" name="dob" min="2000-01-01" max="2020-12-31"/>
       <br>
-      <input type="submit" value="submit"/>
+      <label>Gender: </label>
+      <input type="radio" name="gender" value="male"/>Male &nbsp;
+      <input type="radio" id="gender" name="gender" value="female"/>Female &nbsp;
+      <input type="radio" id="gender" name="gender" value="other"/>Other<br>
+      <label>Hobby: </label>
+      <input type="checkbox" name="hobby" value="cricket"/>Cricket &nbsp;
+      <input type="checkbox" name="hobby" value="Dance"/>Dance &nbsp;
+      <input type="checkbox" name="hobby" value="Sing"/>Sing &nbsp;
+      <input type="checkbox" name="hobby" value="other"/>Other &nbsp;<br>
+      <label>Price: </label>
+      <input type="range" name="price" min="100" max="1000" step="50" value="200"/>
+      <label>Color</label>
+      <input type="color" name="clr" value="#000000"><br>
+      <label>Message:</label>
+      <textarea name="msg" rows="10" cols="20" placeholder="Type your Message" >This is a Text Area</textarea> 
+      <br><label>Age</label>
+      <input type="number" name="age" min="18" max="45"  step="1"/>
+      <br>
+      <label>Select City</label>
+      <select name="city">
+        <option value=" ">Select</option>
+        <option value="Ahm">Ahmedabad</option>
+        <option value="Rajkot">Rajkot</option>
+      </select><br>
+      <label>Select Branch</label>
+      <select name="Branch">
+        <option value="select" selected hidden>Select</option>
+        <optgroup label="Computer">
+          <option value="cse">CSE</option>
+          <option value="it">IT</option>
+        </optgroup>
+        <optgroup label="Science">
+          <option value="c">Chem</option>
+          <option value="p">Phy</option>
+          <option value="m">Math</option>
+        </optgroup>
+      </select><br>
+      <input list="browsers" name="browser">
+      <datalist id="browsers">
+        <option value="Chrome"></option>
+        <option value="Edge"></option>
+        <option value="Safari"></option>
+      </datalist>
+      <input type="submit" value="submit"/><br>
+      <input type="reset" value ="reset form"/><br>
+      <input type="button" value ="submit form"/><br>
+      <Button type="submit">Submit here</Button><br>
+      <Button>Button</Button><br>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14686.584180509475!2d72.52033728771755!3d23.03676491327733!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e84b677c46857%3A0x2b02f655219634cf!2sVastrapur%2C%20Ahmedabad%2C%20Gujarat!5e0!3m2!1sen!2sin!4v3632526405353!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/VO4ndeogLPQ?si=e8Ls35JPtOLVJ2SY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </fieldset>
+    <fieldset>
+      <legend>
+        Hidden ReadOnly disabled
+      </legend>
+      <input type="hidden" name="uid" value="1234"/>
+      <input type="text" value="cse" readonly/>
+      <input type="text" value="LJU001" name="promo" disabled/>
     </fieldset>
   </form>
 </body>
