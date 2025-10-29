@@ -1,0 +1,36 @@
+.d1 p{
+    color:red;
+    text-align:center;
+    font-size: 35px;
+}
+.d1>p{
+    color:purple;
+    text-align: center;
+}
+p{
+    color:yellow;
+}
+input[type=email]{
+    color:blue;
+    width: 100px;
+    background-color: yellow;
+    padding: 10px;
+}
+input[type=button]{
+    color:white;
+    background-color: #000;
+    padding:20px;
+    font-size: 20px;
+}
+#di{
+    color:red;
+}
+a[target=_blank]{
+    color:purple;
+    text-decoration:none;
+    font-size: 25px;
+}
+a{
+    color:blue;
+    text-decoration: none;
+}

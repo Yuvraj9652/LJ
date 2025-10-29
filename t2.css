@@ -1,0 +1,55 @@
+.underline{
+    text-decoration: underline;
+    color: purple;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 60px;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    text-shadow: 9px 5px 3px red;
+    line-height: 2.5;
+    font-family: "Yarndings 20", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.overline{
+    background-color:#000;
+    text-decoration: overline;
+    color: purple;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 60px;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    text-shadow: 9px 10px 2px red;
+    line-height: 2.5;
+    font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.linethrough{
+    text-decoration: line-through;
+    color: purple;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 60px;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    text-shadow: 9px 5px 3px red;
+    line-height: 2.5;
+}
+
+.combined{
+    text-decoration: overline line-through underline;
+    color: purple;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 60px;
+    letter-spacing: 5px;
+    word-spacing: 6px;
+    text-shadow: 9px 5px 3px red;
+    line-height: 2.5;
+}
