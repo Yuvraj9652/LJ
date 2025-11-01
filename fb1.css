@@ -1,0 +1,29 @@
+h1{
+    font-family: copperplate,fantasy;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 900;
+    text-transform: capitalize;
+    font-variant: small-caps;
+}
+h3{
+    text-align: center;
+    border-color:red green blue pink ;
+    border-width: 7px 3px 2px 5px;
+    border-style: solid dotted double;
+}
+h3{
+    text-align: center;
+    border-color: green;
+    border-width: 8PX;
+    border-style: none double;
+}
+p{
+    /* border:3px solid red; */
+    border-left:8px double green; 
+    border-right:8px double green; 
+    border-top:8px dotted blue; 
+    border-bottom:8px dashed purple; 
+    padding: 20px 40px;
+    width: 80%;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="b1.css"> -->
+    <style>
+        a{
+            text-decoration: none;
+            font-size: 30px;
+        }
+        a:link{
+            color: red;
+        }
+        a:visited{
+            color:purple
+        }
+        a:hover{
+            color:green
+        }
+        a:active{
+            color: orange;
+        }
+        input:focus{
+            background-color: yellow;
+            color: red;
+        }
+        ul li:nth-child(3){
+            color: blue;
+            font-size: 20px;
+        }
+        ul li:not(.speacial){
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://www.google.com" target="_blank">Click Here</a>
+    <input type="email" placeholder="email-id"><br>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li class="speacial">Item 3</li>
+    </ul>
+</body>
+</html>
