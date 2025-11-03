@@ -1,0 +1,29 @@
+.container{
+    position:relative;
+    height: 800px;
+    border: 1px solid red;
+    margin: 10px;
+}
+.container1{
+    border: 1px solid blue;
+    height: 800px;
+}
+.box{
+    margin:0 10px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    border: 2px solid green;
+    font-size: 20px;
+}
+#box1{
+    background-color: red;
+    top:100px;
+    right: 100px;
+}
+#box2{
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
