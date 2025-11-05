@@ -1,0 +1,27 @@
+.g1{
+    display: grid;
+    grid-template-columns: 200px 1fr 2fr;
+    grid-template-rows: 1fr 2fr;
+    gap:10px;
+    background-color: gray;
+    padding: 10px;
+    margin:10px;
+}
+.box,.item{
+    background-color: yellow;
+    font-size: 20px;
+    border:3px solid black;
+    padding:10px;
+    text-align: center;
+}
+.g2{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-template-rows: 100px;
+    height: 150px;
+    padding:10px;
+    margin: 10px;
+    background-color: pink;
+    gap:10px;
+    border:1px solid;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .d1 div{
+            display:inline;
+            padding: 20px;
+            width:150px;
+            height:150px;
+            text-align: center;
+            margin: 10px;
+            border: 3px solid red;
+            background-color: yellow;
+            color:red;
+            font-size: 18px;;
+        }
+        .d1 div:nth-child(2){
+            display: none;
+        }
+        .d2 span{
+            display: block;
+            width:500px;
+            height:200px;
+            margin:10px auto;
+            padding: 20px;
+            border:5px solid blue;
+            border-radius: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="d1">
+        <div>Content1</div>
+        <div>Content2</div>
+        <div>Content3</div>
+    </div>
+    <div class="d2">
+        <span>Box1</span>
+        <span>Box2</span>
+        <span>Box3</span>
+    </div>
+</body>
+</html>

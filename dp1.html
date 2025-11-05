@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            background: #3F5EFB;
+            background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+            display: flex;
+            background-color: gray;
+            padding: 15px;
+            color: red;
+            flex-direction: row;
+            gap: 10px;
+            justify-content: flex-start;
+            align-items: flex-start;
+            height: 100px;
+            flex-wrap: wrap;
+        }
+
+        .box {
+            background-color: navy;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            width: 200px;
+            border-radius: 30px;
+        }
+
+        /* .box:nth-child(2) {
+            order: 1;
+            background-color: yellow;
+            color: red;
+            flex: 1 1 100px;
+        } */
+
+        .box:nth-child(2) {
+            /* order: 1; */
+            background-color: yellow;
+            color: red;
+            flex: 2 2 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">Box1</div>
+        <div class="box">Box2</div>
+        <div class="box">Box3</div>
+    </div>
+</body>
+
+</html>
