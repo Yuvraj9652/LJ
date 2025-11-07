@@ -1,0 +1,42 @@
+.d1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 50px;
+    margin:50px auto;
+}
+.d1{
+    animation-name:example;
+    animation-duration:7s;
+    animation-delay:1s;
+    animation-iteration-count:5;
+    animation-direction: alternate-reverse;
+    animation-timming-function:ease-in;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 50px;
+    margin:5px auto;
+}
+@keyframes example{
+    0%{
+        background-color: blue;
+        border-radius: 70px;
+    }
+    20%{
+        background-color: yellow;
+        border-radius: 100px;
+    }
+    40%{
+        background-color: purple;
+    }
+    60%{
+        background-color: green;
+    }
+    80%{
+        background-color: orange;
+    }
+    100%{
+        background-color: red;
+    }
+}

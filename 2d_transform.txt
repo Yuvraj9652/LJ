@@ -1,0 +1,22 @@
+property->transform:function()/method()
+ transalte(x,y)
+ transalteX(n)
+ transalteY(n)
+ rotate(x,y)
+ scale(x,y)
+ scaleX(n)
+ scaleY(n)
+ skew(x,y)
+ skewX(n)
+ skewY(n)
+ sKewY(n)
+ sKew(zodeg,odeg)
+
+Animation-rules
+@keyframes rule
+animation-name:
+animation-duration:
+animation-delay:
+animation-iteration-count:
+animation-direction:
+animation-timming-function:
