@@ -17,10 +17,10 @@
 
 
     <div class="container bg-light p-5">
-        <form>
+        <form class="needs-validation">
             <div class="mb-3">
                 <label class="form-label"> Username </label>
-                <input type="text" class="form-control" placeholder="Username" />
+                <input type="text" class="form-control" placeholder="Username" required/>
             </div>
 
 
@@ -28,7 +28,7 @@
             <div class="row mb-2">
                 <label class="col-sm-2 col-form-label"> Email </label>
                 <div class="col-sm-10">
-                    <input type="email" class="form-control" placeholder="Email id" />
+                    <input type="email" class="form-control" placeholder="Email id" required/>
                 </div>
             </div>
 
@@ -60,6 +60,7 @@
                         <label>City</label>
                     </div>
                 </div>
+            </div>
                 <div class="row">
                     <div class="col-sm-6">
                         <label class="form-label">Hobbies</label>
@@ -93,7 +94,42 @@
                         </div>
                     </div>
                 </div>
-            </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <label class="form-label">feedback</label>
+                        <div class="d-flex justify-content-between my-2">
+                            <span>Poor</span>
+                            <span>Average</span>
+                            <span>Good</span>
+                            <span>V. Good</span>
+                            <span>Excellent</span>
+                        </div>
+                        <input type="range" class="form-range" min="1" max="5" step="1">
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="form-floating">
+                            <textarea placeholder=" " class="form-control" style="height:80px"></textarea>
+                            <label>Comments</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="input-group">
+                            <span class="input-group-text">Rs</span>
+                            <input type="text" class="form-control" placement="Amount">
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="input-group">
+                            <span class="input-group-text">First-name</span>
+                            <input class="form-control" placeholder="Fn">
+                            <input class="form-control" placeholder="lm">
+                        </div>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <input type="submit" class="btn btn-info">
         </form>
     </div>
 </body>
