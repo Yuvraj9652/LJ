@@ -1,0 +1,29 @@
+<head>
+    <script>
+        let a = 10;//global
+        function my() {
+            let b=20;
+            console.log(a,b);//print 10 20
+        }
+        console.log(a);//print 10
+        // console.log(b);
+        //print variable.html:9  Uncaught ReferenceError: b is not defined at variable.html:9:21
+        my();//go to my()
+        //console.log(b);//print error evenif it is used after my()
+        function abc() {
+            let x=5;
+            if(x>2){
+                let y=1;
+                console.log(y);//print 1
+            }
+            // console.log(y)//RefrenceError
+        }
+        abc();
+        let z=10;
+        // let z=10;//Syntax Error//Uncaught SyntaxError: Identifier 'z' has already been declared (at let.html:23:13)
+        z=20;//Allowed and    overwrite
+        console.log(z);//print 20
+        // console.log(p);//print Uncaught ReferenceError ReferenceError: Cannot access 'p' before initialization at <anonymous> (file:///D:/yuvraj/fsd/let.html:26:21)
+        let p=25;
+    </script>
+</head>

@@ -1,0 +1,17 @@
+<script>
+    const q=20;
+    function f1(){
+        const q=10;
+        console.log(q);//print 10
+    }
+    f1();
+    const r=10;
+    // const r=20;//variable2.html:9  Uncaught SyntaxError: Identifier 'r' has already been declared
+    console.log(r);//print 10
+    console.log(q);//print 20
+    const v=201;
+    //v=32;//Uncaught TypeError: Assignment to constant variable. at const.html:13:6
+    console.log(v);//print 201
+    // console.log(agh);//print Uncaught ReferenceError: agh is not defined at const.html:15:17
+    agh=3;
+</script>

@@ -1,0 +1,21 @@
+<head>
+    <script>
+        var a = 10;//global
+        function my() {
+            //var b=20;//local
+            b = 20;//global and only accesible after my() but using wherewill create RefrenceError
+            console.log(a,b);
+        }
+        console.log(a);
+        // console.log(b);
+        //print variable.html:9  Uncaught ReferenceError: b is not defined at variable.html:9:21
+        my();
+        console.log(b);//here after
+        console.log(c);//print undefined//undefined as printing without declaring
+        var c = 30;
+        var c=5;
+        console.log(c);//print 5
+        c=6;
+        console.log(c);//print 6//overwrite available
+    </script>
+</head>
