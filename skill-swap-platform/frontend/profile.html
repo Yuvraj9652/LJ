@@ -1,0 +1,96 @@
+<!-- frontend/profile.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Profile - SkillSwap</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/style.css"/>
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">SkillSwap</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div id="navMenu" class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="dashboard.html" class="nav-link">Dashboard</a></li>
+          <li class="nav-item"><a href="profile.html" class="nav-link active">Profile</a></li>
+          <li class="nav-item"><a href="sessions.html" class="nav-link">Sessions</a></li>
+          <li class="nav-item"><a href="feedback.html" class="nav-link">Feedback</a></li>
+          <li class="nav-item"><a href="login.html" class="btn btn-outline-light ms-2">Login</a></li>
+          <li class="nav-item"><a href="signup.html" class="btn btn-light ms-2">Sign Up</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container my-4">
+    <h2>Your profile</h2>
+    <div class="row g-4">
+      <div class="col-md-6">
+        <div class="card shadow-sm">
+          <div class="card-header">Skills you can teach</div>
+          <div class="card-body">
+            <form id="teachForm" class="row g-3">
+              <div class="col-8">
+                <input type="text" id="teachInput" class="form-control" placeholder="e.g., Python Basics"/>
+              </div>
+              <div class="col-4 d-grid">
+                <button class="btn btn-primary" type="submit">Add</button>
+              </div>
+            </form>
+            <ul id="teachList" class="list-group mt-3">
+              <li class="list-group-item d-flex justify-content-between align-items-center">
+                Guitar Chords <button class="btn btn-sm btn-outline-danger remove-item">Remove</button>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-center">
+                Canva Design <button class="btn btn-sm btn-outline-danger remove-item">Remove</button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="card shadow-sm">
+          <div class="card-header">Skills you want to learn</div>
+          <div class="card-body">
+            <form id="learnForm" class="row g-3">
+              <div class="col-8">
+                <input type="text" id="learnInput" class="form-control" placeholder="e.g., Photography"/>
+              </div>
+              <div class="col-4 d-grid">
+                <button class="btn btn-success" type="submit">Add</button>
+              </div>
+            </form>
+            <ul id="learnList" class="list-group mt-3">
+              <li class="list-group-item d-flex justify-content-between align-items-center">
+                Public Speaking <button class="btn btn-sm btn-outline-danger remove-item">Remove</button>
+              </li>
+              <li class="list-group-item d-flex justify-content-between align-items-center">
+                Cooking <button class="btn btn-sm btn-outline-danger remove-item">Remove</button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="alert alert-info mt-4">
+      This is a static demo. Items are stored in memory only for this preview.
+    </div>
+  </main>
+
+  <footer class="bg-dark text-white text-center p-3">
+    <p>© 2025 SkillSwap | Demo profile</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

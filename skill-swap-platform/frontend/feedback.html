@@ -1,0 +1,85 @@
+<!-- frontend/feedback.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Feedback - SkillSwap</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">SkillSwap</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div id="navMenu" class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="dashboard.html" class="nav-link">Dashboard</a></li>
+          <li class="nav-item"><a href="profile.html" class="nav-link">Profile</a></li>
+          <li class="nav-item"><a href="sessions.html" class="nav-link">Sessions</a></li>
+          <li class="nav-item"><a href="feedback.html" class="nav-link active">Feedback</a></li>
+          <li class="nav-item"><a href="login.html" class="btn btn-outline-light ms-2">Login</a></li>
+          <li class="nav-item"><a href="signup.html" class="btn btn-light ms-2">Sign Up</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container my-4">
+    <h2>Share your feedback</h2>
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <form class="row g-3">
+          <div class="col-md-6">
+            <label class="form-label">Session</label>
+            <select class="form-select">
+              <option>12 Jan — Python Basics</option>
+              <option>18 Jan — Guitar Chords</option>
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label class="form-label">Role</label>
+            <select class="form-select">
+              <option>Learner</option>
+              <option>Teacher</option>
+            </select>
+          </div>
+          <div class="col-12">
+            <label class="form-label">Rating</label>
+            <div class="d-flex align-items-center gap-2">
+              <input type="range" class="form-range" min="1" max="5" step="1" id="ratingRange"/>
+              <span id="ratingValue" class="badge bg-primary">3</span>
+            </div>
+          </div>
+          <div class="col-12">
+            <label class="form-label">Comments</label>
+            <textarea class="form-control" rows="4" placeholder="What went well? What could be improved?"></textarea>
+          </div>
+          <div class="col-12 d-grid">
+            <button class="btn btn-success" type="submit">Submit feedback</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="alert alert-info mt-4">
+      Demo only: feedback is not stored.
+    </div>
+  </main>
+
+  <footer class="bg-dark text-white text-center p-3">
+    <p>© 2025 SkillSwap | Demo feedback</p>
+  </footer>
+
+  <script>
+    const range = document.getElementById('ratingRange');
+    const value = document.getElementById('ratingValue');
+    range?.addEventListener('input', () => value.textContent = range.value);
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
