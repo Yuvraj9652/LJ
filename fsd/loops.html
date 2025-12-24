@@ -1,0 +1,29 @@
+<script>
+  for (let i = 1; i <= 5; i++) {
+    console.log("Iteration:", i);
+  }
+  var a=3
+  while(a<=7){
+    //a++;
+    console.log("While Loop a:",a);
+    a++;
+  }
+  let r=6
+  do{
+    console.log("Do While Loop r:",r);
+    r++;
+  }while(r<5)
+  //for-of loop
+  var f=["apple","banana","cherry"]
+  for(let i of f){
+    console.log("For-Of Loop item:",i);
+  }
+  for(let j in f){
+    console.log(j,":",f[j]);
+  }
+  //for-in loop
+  var obj={name:"John",age:30,city:"New York"}
+  for(let key in obj){
+    console.log("For-In Loop key:",key,"value:",obj[key]);
+  }
+</script>

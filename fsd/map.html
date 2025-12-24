@@ -1,0 +1,15 @@
+<script>
+  let num=[10,20,30];
+  let mul=num.map(n=>n*2);
+  console.log("After Map (multiply by 2):",mul);
+  let filt=num.filter(n=>n>=20);
+  console.log("After Filter (greater than or equal to 20):",filt);
+  console.log(name.includes('abc'));//true
+  console.log(name.includes('def'));//  false
+  let user=[{name:'Alice',id:1},{name:'Bob',id:2},{name:'Charlie',id:3}];
+  let foundUser=user.find(u=>u.id===1);
+  console.log("Found User:",foundUser);//{name:'Alice',id:1}
+  let foundUser1=user.find(u=>u.name=='Charlie');
+  console.log('Found User ',foundUser1);//{name:'Charlie',id:3}
+  document.write(JSON.stringify(foundUser));
+</script>

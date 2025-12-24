@@ -1,0 +1,29 @@
+<script>
+    /*Syntax
+    switch(variable name){
+        case "name":
+            logic code
+            break;
+        case "":
+            logic
+            break;
+        default:
+            code logic
+    }
+    */
+
+   role="admin";
+    switch (role) {
+        case 'admin':
+            console.log("You have full access");
+            break;
+        case 'editor':
+            console.log("You can edit content");
+            break;
+        case 'viewer':
+            console.log("You can view content only");
+            break;
+        default:
+            console.log("No access granted");
+    }
+</script>
