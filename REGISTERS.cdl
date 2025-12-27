@@ -1,7 +1,7 @@
 <circuit>
 <CurrentPage>0</CurrentPage>
 <page 0>
-<PageViewport>-8944.67,225.376,-8428.3,-29.0148</PageViewport>
+<PageViewport>-8847.74,510.451,-8557.27,367.357</PageViewport>
 <gate>
 <ID>194</ID>
 <type>GA_LED</type>
@@ -298,7 +298,7 @@
 <input>
 <ID>clock</ID>12 </input>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 1</lparam>
+<lparam>CURRENT_VALUE 0</lparam>
 <lparam>INPUT_BITS 1</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_CLEAR false</lparam>
@@ -315,7 +315,7 @@
 <input>
 <ID>clock</ID>12 </input>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 1</lparam>
+<lparam>CURRENT_VALUE 0</lparam>
 <lparam>INPUT_BITS 1</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_CLEAR false</lparam>
@@ -493,15 +493,29 @@
 <lparam>OUTPUT_BITS 1</lparam>
 <lparam>OUTPUT_NUM 1</lparam></gate>
 <gate>
+<ID>236</ID>
+<type>AA_LABEL</type>
+<position>-8715,500</position>
+<gparam>LABEL_TEXT UNIVERSAL REGISTER</gparam>
+<gparam>TEXT_HEIGHT 4</gparam>
+<gparam>angle 0.0</gparam></gate>
+<gate>
 <ID>43</ID>
 <type>AA_TOGGLE</type>
-<position>-8762.5,452.5</position>
+<position>-8762,452.5</position>
 <output>
 <ID>OUT_0</ID>2 </output>
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 1</lparam></gate>
+<lparam>OUTPUT_NUM 0</lparam></gate>
+<gate>
+<ID>238</ID>
+<type>AA_LABEL</type>
+<position>-8716.5,489.5</position>
+<gparam>LABEL_TEXT 00-NO CHANGE </gparam>
+<gparam>TEXT_HEIGHT 2</gparam>
+<gparam>angle 0.0</gparam></gate>
 <gate>
 <ID>45</ID>
 <type>GA_LED</type>
@@ -511,12 +525,33 @@
 <gparam>LED_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam></gate>
 <gate>
+<ID>239</ID>
+<type>AA_LABEL</type>
+<position>-8716.5,486</position>
+<gparam>LABEL_TEXT 01-SHIFT RIGHT </gparam>
+<gparam>TEXT_HEIGHT 2</gparam>
+<gparam>angle 0.0</gparam></gate>
+<gate>
+<ID>240</ID>
+<type>AA_LABEL</type>
+<position>-8716.5,483</position>
+<gparam>LABEL_TEXT 10-SHIFT LEFT</gparam>
+<gparam>TEXT_HEIGHT 2</gparam>
+<gparam>angle 0.0</gparam></gate>
+<gate>
 <ID>47</ID>
 <type>GA_LED</type>
 <position>-8678,452.5</position>
 <input>
 <ID>N_in0</ID>2 </input>
 <gparam>LED_BOX -0.76,-0.76,0.76,0.76</gparam>
+<gparam>angle 0.0</gparam></gate>
+<gate>
+<ID>241</ID>
+<type>AA_LABEL</type>
+<position>-8716.5,480</position>
+<gparam>LABEL_TEXT 11-PARALLEL LOAD</gparam>
+<gparam>TEXT_HEIGHT 2</gparam>
 <gparam>angle 0.0</gparam></gate>
 <gate>
 <ID>49</ID>
@@ -593,7 +628,7 @@
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 1</lparam></gate>
+<lparam>OUTPUT_NUM 0</lparam></gate>
 <gate>
 <ID>65</ID>
 <type>AA_TOGGLE</type>
@@ -603,21 +638,11 @@
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 1</lparam></gate>
+<lparam>OUTPUT_NUM 0</lparam></gate>
 <gate>
 <ID>66</ID>
 <type>AA_TOGGLE</type>
 <position>-8771.5,423</position>
-<output>
-<ID>OUT_0</ID>18 </output>
-<gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
-<gparam>angle 0.0</gparam>
-<lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 0</lparam></gate>
-<gate>
-<ID>68</ID>
-<type>AA_TOGGLE</type>
-<position>-8786.5,442</position>
 <output>
 <ID>OUT_0</ID>18 </output>
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
@@ -645,7 +670,7 @@
 <input>
 <ID>clock</ID>21 </input>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 1</lparam>
+<lparam>CURRENT_VALUE 0</lparam>
 <lparam>INPUT_BITS 1</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_CLEAR false</lparam>
@@ -662,7 +687,7 @@
 <input>
 <ID>clock</ID>21 </input>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 1</lparam>
+<lparam>CURRENT_VALUE 0</lparam>
 <lparam>INPUT_BITS 1</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_CLEAR false</lparam>
@@ -679,7 +704,7 @@
 <input>
 <ID>clock</ID>21 </input>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 1</lparam>
+<lparam>CURRENT_VALUE 0</lparam>
 <lparam>INPUT_BITS 1</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_CLEAR false</lparam>
@@ -696,7 +721,7 @@
 <input>
 <ID>clock</ID>21 </input>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 1</lparam>
+<lparam>CURRENT_VALUE 0</lparam>
 <lparam>INPUT_BITS 1</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_CLEAR false</lparam>
@@ -711,7 +736,7 @@
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 1</lparam></gate>
+<lparam>OUTPUT_NUM 0</lparam></gate>
 <gate>
 <ID>84</ID>
 <type>DA_FROM</type>
@@ -1311,7 +1336,7 @@
 <shape>
 <hsegment>
 <ID>1</ID>
-<points>-8760.5,452.5,-8679,452.5</points>
+<points>-8760,452.5,-8679,452.5</points>
 <connection>
 <GID>47</GID>
 <name>N_in0</name></connection>
@@ -1770,31 +1795,33 @@
 <shape>
 <vsegment>
 <ID>0</ID>
-<points>-8736,423,-8736,444</points>
-<intersection>423 1</intersection>
-<intersection>444 2</intersection></vsegment>
+<points>-8736,421,-8736,472.5</points>
+<intersection>421 1</intersection>
+<intersection>472.5 2</intersection></vsegment>
 <hsegment>
 <ID>1</ID>
-<points>-8784.5,423,-8736,423</points>
-<connection>
-<GID>66</GID>
-<name>OUT_0</name></connection>
-<intersection>-8784.5 3</intersection>
+<points>-8769.5,421,-8736,421</points>
+<intersection>-8769.5 6</intersection>
 <intersection>-8736 0</intersection></hsegment>
 <hsegment>
 <ID>2</ID>
-<points>-8736,444,-8694.5,444</points>
+<points>-8736,472.5,-8694.5,472.5</points>
+<intersection>-8736 0</intersection>
+<intersection>-8694.5 10</intersection></hsegment>
+<vsegment>
+<ID>6</ID>
+<points>-8769.5,421,-8769.5,423</points>
+<connection>
+<GID>66</GID>
+<name>OUT_0</name></connection>
+<intersection>421 1</intersection></vsegment>
+<vsegment>
+<ID>10</ID>
+<points>-8694.5,444,-8694.5,472.5</points>
 <connection>
 <GID>39</GID>
 <name>IN_3</name></connection>
-<intersection>-8736 0</intersection></hsegment>
-<vsegment>
-<ID>3</ID>
-<points>-8784.5,423,-8784.5,442</points>
-<connection>
-<GID>68</GID>
-<name>OUT_0</name></connection>
-<intersection>423 1</intersection></vsegment></shape></wire>
+<intersection>472.5 2</intersection></vsegment></shape></wire>
 <wire>
 <ID>19</ID>
 <shape>
