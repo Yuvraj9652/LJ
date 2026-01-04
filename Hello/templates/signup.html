@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Sign Up Page</title>
+    </head>
+    <body>
+        <h1>Create a New Account</h1>
+
+        <form method="post" action="{% url 'signup' %}">
+            {% csrf_token %}
+
+            <label>Username:</label>
+            <input type="text" name="username" required /><br><br>
+            
+            <label>Email:</label>
+            <input type="email" name="email" required /><br><br>
+
+
+            <label>Password:</label>
+            <input type="password" name="password" required /><br><br>
+
+            <label>Confirm Password:</label>
+            <input type="password" name="password2" required /><br><br>
+
+            <button type="submit">Sign Up</button>
+
+            {% if error %}
+                <p style="color:red;">{{ error }}</p>
+            {% endif %}
+
+            {% if messages %}
+                {% for message in messages %}
+                    <p style="color:red;">{{ message }}</p>
+                {% endfor %}
+            {% endif %}
+        </form>
+
+    </body>
+</html>
