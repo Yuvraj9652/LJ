@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="a">Hello</p>
+    <p class="b">Bye</p>
+    <p class="b">Bye</p>
+    <button  type="button" onclick="fun1()">Click Me</button>
+    <script>
+        function fun() {
+            let i = document.getElementById("a")
+            i.innerHTML = "<b>HELLO THERE </b>"
+        }
+        function fun1() {
+            let j= document.getElementsByClassName("b")
+            for(let p of j){
+                p.style.color="tomato"
+                p.style.background="cyan"
+                p.innerHTML="Bye HTML"
+                p.style.=""
+            }
+        }
+    </script>
+</body>
+
+</html>

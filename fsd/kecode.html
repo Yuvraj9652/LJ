@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onkeypress="kd(event)">
+    <div onmousedown="md(event)" style="width:200px;  height: 200px; border: 3px solid;">
+        Mouse Button Event
+    </div>
+    <script>
+        function kd(e) {
+            alert(`key is ${e.key} and code is ${e.keyCode}`);
+        }
+        function md(e){
+            var b=e.button;
+            if(b==0){
+                alert("left");
+            }
+            else if(b==1){
+                alert("Middle");
+            }
+            else if(b==2){
+                alert("Right");
+            }
+            else{
+                alert("Invalid")
+            }
+
+        }
+    </script>
+    <button 
+        onmousedown="console.log('Mouse down')" 
+        onmouseup="console.log('Mouse up')" 
+        onmouseover="console.log('Mouse over')">
+        Click Me
+    </button>
+
+</body>
+</html>

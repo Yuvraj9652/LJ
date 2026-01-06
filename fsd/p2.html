@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Outside Div</p>
+    <div class="cssBox">
+        <p>Inside Div</p>
+    </div>
+    <button  type="button" onclick="fun1()">Click Me</button>
+</div>  
+    <script>
+        function fun1() {
+            let j= document.document.querySelector(".cssBox p")
+            for(let p of j){
+                p.style.color="tomato"
+                p.style.background="cyan"
+                p.innerHTML="Bye HTML"
+            }
+        }
+       
+    </script>
+</body>
+</html>

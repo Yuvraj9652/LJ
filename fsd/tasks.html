@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DOM Example</title>
+</head>
+<body>
+  <h1 id="main-title">Hello DOM!</h1>
+
+  <script>
+    function manipulateHeading() {
+      const heading = document.getElementById("main-title");
+      heading.innerText = "DOM Manipulation is Fun!";
+      heading.style.color = "green";
+    }
+
+    // Call the function once the page loads
+    manipulateHeading();
+  </script>
+</body>
+</html>

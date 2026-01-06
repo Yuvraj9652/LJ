@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Click Events Demo</title>
+</head>
+<body>
+  <button id="btn">Click Me</button>
+
+  <script>
+    const btn = document.getElementById("btn");
+
+    // Normal click
+    btn.addEventListener("click", () => {
+      console.log("Single click detected");
+      
+    });
+
+    // Double click
+    btn.addEventListener("dblclick", () => {
+      console.log("Double click detected");
+    });
+
+    // Right click (context menu)
+    btn.addEventListener("contextmenu", (event) => {
+      event.preventDefault(); // prevent default right-click menu
+      console.log("Right click detected");
+    });
+
+    // Mouse button pressed down
+    btn.addEventListener("mousedown", () => {
+      console.log("Mouse button pressed down");
+    });
+
+    // Mouse button released
+    btn.addEventListener("mouseup", () => {
+      console.log("Mouse button released");
+    });
+    
+  </script>
+</body>
+</html>

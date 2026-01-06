@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <input type="text" id="i1" autofocus/>
+        <input type="submit" onclick="test()"/>
+    </form>
+    <script>
+        function test() {
+            var u=document.getElementById("i1").value;
+            var p=/^[^0-9]+$/i;
+            var p="/^\w+([.-]?\w_)*@\w+([.]?\w+)*(\.\w{2,3})+$"
+            var p = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            if(p.test(u)){
+                alert("Valid");
+            }
+            else{
+                alert("Invalid");
+            }
+        }
+    </script>
+</body>
+</html>

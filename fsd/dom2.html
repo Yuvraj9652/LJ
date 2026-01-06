@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <p id="pid" title="Hyper Text Markup Language"></p>
+  <p class="pc" id="pid1">Para1</p>
+  <p class="pc">Para2</p>
+  <p class="pc">Para3</p>
+  <img src="1.jpg" width="300" height="300">
+  <img src="4.png" width="300" height="300">
+  <h2 id="heading1">Heading</h2>
+  <h2 class="heading2">Heading</h2>
+  <button onclick="myfunc()">Apply</button>
+  <p onclick="oc(this)">Hello</p>
+  <p onclick="this.style.color='blue'; this.style.fontSize='35px'">Hello Everyone !</p>
+<script>
+function myfunc(){
+  document.getElementById('pid').removeAttribute('title');
+  var d=document.getElementsByClassName('pc');
+  d[1].innerHTML="Updated Para";
+
+  for (d1 of d){
+    d1.style.color="red";
+    d1.style.fontSize="20px";
+    d1.style.fontWeight="bold";
+    d1.style.textTrasnform="uppercase";
+  }
+  d[2].style.textDecoration='underline';
+  document.getElementById('pid1').style.color='blue'
+  document.querySelector('img').setAttribute('src','2.jfif')
+  document.querySelector('#heading1').style.border='5px dotted blue';
+  document.querySelector('.heading2').style.textAlign='center';
+  var i=document.querySelectorAll('img');
+  for (i1 of i){
+    i1.setAttribute('width','500');
+  }
+  i[1].setAttribute('height','400');
+}
+function oc(x){
+      x.style.color='green';
+      x.innerHTML='Updated Text';
+  }
+</script>
+</body>
+</html>

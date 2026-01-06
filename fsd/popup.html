@@ -1,0 +1,34 @@
+
+<script>
+    function a()
+    {
+        alert("warning message")
+        document.write("hello")
+    }
+    function b()
+    {
+        var res = confirm("do you want to confirm")
+        if(res==true)
+        {
+            alert("yes")
+            return true
+        }
+        else
+        {
+            document.write("No")
+            return false
+        }
+       
+    }
+     function c()
+        {
+            var r = prompt("Enter your name :")
+            var s = prompt("Enter your name :")
+            alert(`wlecome ${r%s}`)
+        }
+        console.log(h)
+        const h = 10
+</script>
+<input value="alert box" type="button" onclick="a()">
+<input value="confirm box" type="button" onclick="b()">
+<input value="prompt box" type="button" onclick="c()">
