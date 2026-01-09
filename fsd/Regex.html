@@ -13,9 +13,11 @@
     <script>
         function test() {
             var u=document.getElementById("i1").value;
-            var p=/^[^0-9]+$/i;
-            var p="/^\w+([.-]?\w_)*@\w+([.]?\w+)*(\.\w{2,3})+$"
-            var p = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            // var p=/^[^0-9]+$/i;
+            // var p="/^\w+([.-]?\w+)*@\w+([.]?\w+)*(\.\w{2,3})+$"
+            // var p = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            // var p = /^[6-9][0-9]{9}$/;
+            var p = /^[A-Za-z]+$/
             if(p.test(u)){
                 alert("Valid");
             }

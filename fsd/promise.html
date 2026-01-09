@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //syntax
+        /*let promise=new Promise((resolve,reject)=>{
+            success=true;  
+            if(success){
+                resolve(res);
+            }
+            else{
+                reject(err);
+            }
+        })
+        promise
+        .then(r=>console.log(r))
+        .catch(e=>console.log(e))
+        .finally(c=>console.log("completed"))*/
+        // Creating a Promise
+        let order = new Promise((resolve, reject) => {
+            let success=true;
+            setTimeout(()=>{
+                if(success){
+                    resolve("Order success");
+
+                } else {
+                    reject("failed");
+                }
+            },3000)
+        })
+        order
+        .then(r=>console.log(r))
+        .catch(e=>console.log(e))
+        .finally(c=>console.log("completed"))
+
+
+
+
+
+
+    </script>
+</body>
+</html>
