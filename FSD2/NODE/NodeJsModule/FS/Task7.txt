@@ -1,0 +1,3 @@
+0 1 -9 20 33 -44 50
+Sorted array: -44,-9,0,1,20,33,50
+Maximum number: 50

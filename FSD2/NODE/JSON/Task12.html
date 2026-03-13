@@ -1,0 +1,59 @@
+<!-- Get JSON object values using for loop and make HTML table to display these values. -->
+ <body>
+
+  <table border="1">
+
+    <tr>
+
+      <th>Topic</th>
+
+      <th>Course</th>
+
+      <th>Content</th>
+
+    </tr>
+
+  </table>
+ </body>
+<script>
+const sub = {
+
+  FSD: [
+
+    { Topic: "HTML", course: "Beginner", content: ["tags","table","form"] },
+
+    { Topic: "CSS", course: "Beginner", content: ["tags","table","form"] }
+
+  ]
+
+};
+
+const table = document.querySelector("table");
+for (let i = 0; i < sub.FSD.length; i++) {
+
+  const row = document.createElement("tr");
+
+  const topicCell = document.createElement("td");
+
+  topicCell.textContent = sub.FSD[i].Topic;
+
+  row.appendChild(topicCell);
+
+  const courseCell = document.createElement("td");
+
+  courseCell.textContent = sub.FSD[i].course;
+
+  row.appendChild(courseCell);
+
+  const contentCell = document.createElement("td");
+
+  contentCell.textContent = sub.FSD[i].content.join(", ");
+
+  row.appendChild(contentCell);
+
+  table.appendChild(row);
+
+}
+
+
+</script>
