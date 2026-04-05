@@ -1,0 +1,4 @@
+Report Start
+Entry 1: Success
+Entry 2: Warning
+Entry 3: Success

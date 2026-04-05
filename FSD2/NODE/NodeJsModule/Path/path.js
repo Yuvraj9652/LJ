@@ -1,6 +1,6 @@
 var pm=require("path");
 var a=pm.basename("D:\\Yuvraj\\LJ\\LJ\\FSD2\\NODE\\NodeJsModule\\Path\\hello.txt");
-console.log(a);
+console.log(a);//hello.txt
 var b=pm.dirname("D:\\Yuvraj\\LJ\\LJ\\FSD2\\NODE\\NodeJsModule\\Path\\hello.txt");
 console.log(b);
 var c=pm.extname("D:\\Yuvraj\\LJ\\LJ\\FSD2\\NODE\\NodeJsModule\\Path\\hello.txt");
