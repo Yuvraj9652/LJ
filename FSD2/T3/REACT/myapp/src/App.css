@@ -1,0 +1,20 @@
+.main-route ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+  margin-bottom: 50px;
+}
+.main-route li {
+  float: left;
+}
+ 
+.main-route li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+.main-route h1{ color: red; text-align: center;}

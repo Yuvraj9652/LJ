@@ -5,5 +5,5 @@ app.get('/',(req,res)=>{
     res.send('<h1>Hello World</h1>')
 });
 app.listen(5006,()=>{
-    console.log('Server Connected');
+    console.log('Server Connected, http://localhost:5006');
 })

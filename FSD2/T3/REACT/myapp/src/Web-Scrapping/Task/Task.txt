@@ -1,0 +1,54 @@
+Task: 
+
+Create a React application using props to display student details.
+
+Requirements:
+
+1. 	Create a parent component Prop1.js.
+
+2. 	Pass the following data to child component Prop2.js using props:
+
+o	student name
+
+o	roll number
+
+o	marks
+
+3. 	In child component:
+
+o	display student details
+
+o	increase marks by 1 and display updated marks
+
+
+Task2: 
+
+Create a React application using props to pass an object from one component to another component.
+
+Requirements:
+
+1. 	Create a parent component Example1.js.
+
+2. 	Create an object named Details containing:
+
+o	Student_name
+
+o	University_name
+
+3. 	Pass the Details object to child component Example.js using props.
+
+4. 	In child component:
+
+o	receive the object using props
+
+o	display student name and university name in browser
+
+
+
+Task 3: 
+
+Build a React app that displays a list of products using props.
+
+Create a ProductCard component to show product details like title, price, rating, and image.
+
+Use a ProductList component to store product data and display multiple ProductCard components using .map().
