@@ -16,6 +16,14 @@ import US10 from './US10.jsx'
 import Todo from './Todo.jsx'
 import Task10 from './Task10.jsx'
 
+import UR3 from './UR3.jsx'
+import UR5 from './UR5.jsx'
+
+import UC1 from './UC1.jsx'
+import Comp1 from './Comp1.jsx'
+
+import F1 from './F1.jsx'
+
 function APP(){
     return(
         <>
@@ -40,6 +48,17 @@ function APP(){
                         <li><Link to="/todolist">To-do-List</Link></li>
                         <li><Link to="/registration">Registration</Link></li>
                     </ul>
+                    <ul>
+                        <h2>UseReducer</h2>
+                        <li><Link to="/UR3">UR3</Link></li>
+                        <li><Link to="/UR5">UR5</Link></li>
+                    </ul>
+                    <ul>
+                        <h2>UseContext</h2>
+                        <li><Link to="/UC1">UC1</Link></li>
+                    </ul>
+                    <li><Link to="/Comp1">Comp1</Link></li>
+                    <li><Link to="/F1">F1</Link></li>
                 </ul>
             </div>
             <Routes>
@@ -58,6 +77,11 @@ function APP(){
                 <Route path="/US10" element={<US10/>}/>
                 <Route path="/todolist" element={<Todo/>}/>
                 <Route path="/registration" element={<Task10/>}/>
+                <Route path="/UR3" element={<UR3/>}/>
+                <Route path="/UR5" element={<UR5/>}/>
+                <Route path="/UC1" element={<UC1/>}/>
+                <Route path="/Comp1" element={<Comp1/>}/>
+                <Route path="/F1" element={<F1/>}/>
             </Routes>
         </Router>
         </>

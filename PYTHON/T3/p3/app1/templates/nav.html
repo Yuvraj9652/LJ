@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% block title %}
+        <title>Navbar</title>
+    {% endblock title %}
+</head>
+<body>
+    <nav>
+            <a href="{% url 'home' %}">Home</a>
+            <a href="{% url 'about' %}">About</a>
+    </nav>
+    {% if s > 9 %}
+        <p>Greater than 9</p>
+    {% elif s > 5 %}
+        <p>Greater than 5</p>
+    {% else %}
+        <p>Less than or equal to 5</p>
+    {% endif %}
+
+    <ul>
+        {% for item in l %}
+            <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+
+    {% block body  %}
+    <h1>Navigation Bar</h1>
+    {% endblock body %}
+    {% block con %}
+    {% endblock con %}
+</body>
+</html>
