@@ -24,6 +24,12 @@ import Comp1 from './Comp1.jsx'
 
 import F1 from './F1.jsx'
 
+import UE1 from './UE1.jsx'
+import UE2 from './UE2.jsx'
+
+import Ax from './Ax.jsx'
+import Ax2 from './Ax2.jsx'
+
 function APP(){
     return(
         <>
@@ -59,6 +65,10 @@ function APP(){
                     </ul>
                     <li><Link to="/Comp1">Comp1</Link></li>
                     <li><Link to="/F1">F1</Link></li>
+                    <li><Link to="/UE1">UE1</Link></li>
+                    <li><Link to="/UE2">UE2</Link></li>
+                    <li><Link to="/Ax">AX</Link></li>
+                    <li><Link to="/Ax2">AX2</Link></li>
                 </ul>
             </div>
             <Routes>
@@ -82,6 +92,10 @@ function APP(){
                 <Route path="/UC1" element={<UC1/>}/>
                 <Route path="/Comp1" element={<Comp1/>}/>
                 <Route path="/F1" element={<F1/>}/>
+                <Route path="/UE1" element={<UE1/>}/>
+                <Route path="/UE2" element={<UE2/>}/>
+                <Route path="/ax" element={<Ax/>}/>
+                <Route path="/ax2" element={<Ax2/>}/>
             </Routes>
         </Router>
         </>
