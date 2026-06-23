@@ -1,5 +1,4 @@
-import {BrowserRouter as Router,Route,Routes} from "react-router-dom";
-import { Link } from 'react-router-dom';
+import {BrowserRouter as Router,Route,Routes,Link} from "react-router-dom";
 import Help from './Help.jsx'
 import Galary from './Galary.jsx'
 import Destination from './Destination.jsx'
@@ -94,8 +93,8 @@ function APP(){
                 <Route path="/F1" element={<F1/>}/>
                 <Route path="/UE1" element={<UE1/>}/>
                 <Route path="/UE2" element={<UE2/>}/>
-                <Route path="/ax" element={<Ax/>}/>
-                <Route path="/ax2" element={<Ax2/>}/>
+                <Route path="/Ax" element={<Ax/>}/>
+                <Route path="/Ax2" element={<Ax2/>}/>
             </Routes>
         </Router>
         </>

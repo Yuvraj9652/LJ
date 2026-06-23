@@ -1,0 +1,25 @@
+{% extends "navbar.html" %}
+
+{% block content %}
+<h1>Cricket Players</h1>
+<label for="search">Id:</label>
+<input type="text" id="search" name="search">
+<label for="search">Name:</label>
+<input type="text" id="search" name="search">
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Team</th>
+        <th>Runs</th>
+        <th>Date of Birth</th>
+    </tr>
+    {% for player in players %}
+    <tr>
+        <td>{{ player.name }}</td>
+        <td>{{ player.team }}</td>
+        <td>{{ player.runs }}</td>
+        <td>{{ player.dob }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

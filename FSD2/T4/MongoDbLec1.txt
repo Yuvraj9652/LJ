@@ -1,0 +1,8974 @@
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([undefined
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+|     "standard": "9th",
+|     "percentage": 88.9
+|   },
+|   {
+|     "name": "Vikram Singh",
+|     "age": 17,
+|     "standard": "11th",
+|     "percentage": 74.2
+|   },
+|   {
+|     "name": "Meera",
+|     "age": 12,
+|     "standard": "6th",
+|     "percentage": 81.0
+|   },
+|   {
+|     "name": "Arjun Kumar",
+|     "age": 18,
+|     "standard": "12th",
+|     "percentage": 95.6
+|   },
+|   {
+|     "name": "Kavya",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 70.4
+|   },
+|   {
+|     "name": "Devanshi",
+|     "age": 15,
+|     "standard": "9th",
+|     "percentage": 84.7
+|   },
+|   {
+|     "name": "Siddharth",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 60.5
+|   }
+| ]
+| )
+[
+  { name: 'Amit', age: 14, standard: '8th', percentage: 78.5 },
+  { name: 'Priya Sharma', age: 16, standard: '10th', percentage: 92.3 },
+  { name: 'Rohan', age: 13, standard: '7th', percentage: 65 },
+  { name: 'Sneha Patel', age: 15, standard: '9th', percentage: 88.9 },
+  { name: 'Vikram Singh', age: 17, standard: '11th', percentage: 74.2 },
+  { name: 'Meera', age: 12, standard: '6th', percentage: 81 },
+  { name: 'Arjun Kumar', age: 18, standard: '12th', percentage: 95.6 },
+  { name: 'Kavya', age: 14, standard: '8th', percentage: 70.4 },
+  { name: 'Devanshi', age: 15, standard: '9th', percentage: 84.7 },
+  { name: 'Siddharth', age: 16, standard: '10th', percentage: 60.5 }
+]
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+|     "standard": "9th",
+|     "percentage": 88.9
+|   },
+|   {
+|     "name": "Vikram Singh",
+|     "age": 17,
+|     "standard": "11th",
+|     "percentage": 74.2
+|   },
+|   {
+|     "name": "Meera",
+|     "age": 12,
+|     "standard": "6th",
+|     "percentage": 81.0
+|   },
+|   {
+|     "name": "Arjun Kumar",
+|     "age": 18,
+|     "standard": "12th",
+|     "percentage": 95.6
+|   },
+|   {
+|     "name": "Kavya",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 70.4
+|   },
+|   {
+|     "name": "Devanshi",
+|     "age": 15,
+|     "standard": "9th",
+|     "percentage": 84.7
+|   },
+|   {
+|     "name": "Siddharth",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 60.5
+|   }
+| ]
+| )
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6a38e4ad3f695cad8babc122'),
+    '1': ObjectId('6a38e4ad3f695cad8babc123'),
+    '2': ObjectId('6a38e4ad3f695cad8babc124'),
+    '3': ObjectId('6a38e4ad3f695cad8babc125'),
+    '4': ObjectId('6a38e4ad3f695cad8babc126'),
+    '5': ObjectId('6a38e4ad3f695cad8babc127'),
+    '6': ObjectId('6a38e4ad3f695cad8babc128'),
+    '7': ObjectId('6a38e4ad3f695cad8babc129'),
+    '8': ObjectId('6a38e4ad3f695cad8babc12a'),
+    '9': ObjectId('6a38e4ad3f695cad8babc12b')
+  }
+}
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany;;([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.Student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 14,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 13,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 12,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 14,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 15,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": "8th",
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": "10th",
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": "7th",
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.find({name:{$not:{$let:{age:5}}}})
+MongoServerError[BadValue]: unknown operator: $let
+lj2k26> db.student.find({name:{$not:{$lt:{age:5}}}})
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 14,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 13,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 12,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 14,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 15,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.find({name:{$not:{$lt:{age:15}}}})
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 14,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 13,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 12,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 14,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 15,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.find({age:{$not:{$lt:{age:15}}}})
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 14,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 13,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 12,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 14,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 15,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.find({age:{$gt:5}})
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 14,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 13,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 12,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 14,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 15,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.find({age:{$gt:15}})
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.find({standard:{$inc:1}})
+MongoServerError[BadValue]: unknown operator: $inc
+lj2k26> db.student.find({age:{$gt:5},{name:1,_id:0})
+Uncaught:
+SyntaxError: Unexpected token (1:29)
+
+> 1 | db.student.find({age:{$gt:5},{name:1,_id:0})
+    |                              ^
+  2 |
+
+lj2k26> db.student.find({age:{$gt:5}},{name:1,_id:0})
+[
+  { name: 'Amit' },
+  { name: 'Priya Sharma' },
+  { name: 'Rohan' },
+  { name: 'Sneha Patel' },
+  { name: 'Vikram Singh' },
+  { name: 'Meera' },
+  { name: 'Arjun Kumar' },
+  { name: 'Kavya' },
+  { name: 'Devanshi' },
+  { name: 'Siddharth' }
+]
+lj2k26> db.student.find('standard')
+MongoInvalidArgumentError: Query filter must be a plain object or ObjectId
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 14,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 13,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 12,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 14,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 15,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 16,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.updateMany({},{$inc:{standard:1}})
+MongoServerError: Plan executor error during update :: caused by :: Cannot apply $inc to a value of non-numeric type. {_id: ObjectId('6a38e4ad3f695cad8babc122')} has the field 'standard' of non-numeric type string
+lj2k26> db.student.updateMany({},{$inc:{age:1}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 10,
+  modifiedCount: 10,
+  upsertedCount: 0
+}
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 15,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 17,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 14,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 16,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 18,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 13,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 19,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 15,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 16,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 17,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.users.updateMany(
+|   {},
+|   [
+|     {
+|       $set: {
+|         age: { $toInt: "$age" }
+|       }
+|     }
+|   ]
+| )
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 0,
+  modifiedCount: 0,
+  upsertedCount: 0
+}
+lj2k26> db.student.updateMany({},{$inc:{standard:1}})
+MongoServerError: Plan executor error during update :: caused by :: Cannot apply $inc to a value of non-numeric type. {_id: ObjectId('6a38e4ad3f695cad8babc122')} has the field 'standard' of non-numeric type string
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 15,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 17,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 14,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 16,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 18,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 13,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 19,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 15,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 16,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 17,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.users.updateMany(
+|   {},
+|   [
+|     {
+|       $set: {
+|         standard: { $toInt: "$standard" }
+|       }
+|     }
+|   ]
+| )
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 0,
+  modifiedCount: 0,
+  upsertedCount: 0
+}
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 15,
+    standard: '8th',
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 17,
+    standard: '10th',
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 14,
+    standard: '7th',
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 16,
+    standard: '9th',
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 18,
+    standard: '11th',
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 13,
+    standard: '6th',
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 19,
+    standard: '12th',
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 15,
+    standard: '8th',
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 16,
+    standard: '9th',
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 17,
+    standard: '10th',
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.updateMany(
+|   {},
+|   [
+|     {
+|       $set: {
+|         standard: { $toInt: "$standard" }
+|       }
+|     }
+|   ]
+| )
+MongoServerError: Plan executor error during update :: caused by :: Failed to parse number '8th' in $convert with no onError value: Did not consume whole string.
+lj2k26> db.student.updateMany(
+|   {},
+|   [
+|     {
+|       $set: {
+|         standard: { $toInt: "$standard"+"th" }
+|       }
+|     }
+|   ]
+| )
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 10,
+  modifiedCount: 10,
+  upsertedCount: 0
+}
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc122'),
+    name: 'Amit',
+    age: 15,
+    standard: null,
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc123'),
+    name: 'Priya Sharma',
+    age: 17,
+    standard: null,
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc124'),
+    name: 'Rohan',
+    age: 14,
+    standard: null,
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc125'),
+    name: 'Sneha Patel',
+    age: 16,
+    standard: null,
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc126'),
+    name: 'Vikram Singh',
+    age: 18,
+    standard: null,
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc127'),
+    name: 'Meera',
+    age: 13,
+    standard: null,
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc128'),
+    name: 'Arjun Kumar',
+    age: 19,
+    standard: null,
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc129'),
+    name: 'Kavya',
+    age: 15,
+    standard: null,
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12a'),
+    name: 'Devanshi',
+    age: 16,
+    standard: null,
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e4ad3f695cad8babc12b'),
+    name: 'Siddharth',
+    age: 17,
+    standard: null,
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.drop()
+true
+lj2k26> db.student.find()
+
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+|     "standard": 9,
+|     "percentage": 88.9
+|   },
+|   {
+|     "name": "Vikram Singh",
+|     "age": 17,
+|     "standard": 11,
+|     "percentage": 74.2
+|   },
+|   {
+|     "name": "Meera",
+|     "age": 12,
+|     "standard": 6,
+|     "percentage": 81.0
+|   },
+|   {
+|     "name": "Arjun Kumar",
+|     "age": 18,
+|     "standard": 12,
+|     "percentage": 95.6
+|   },
+|   {
+|     "name": "Kavya",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 70.4
+|   },
+|   {
+|     "name": "Devanshi",
+|     "age": 15,
+|     "standard": 9,
+|     "percentage": 84.7
+|   },
+|   {
+|     "name": "Siddharth",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 60.5
+|   }
+| ]
+| )
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6a38e7d23f695cad8babc12c'),
+    '1': ObjectId('6a38e7d23f695cad8babc12d'),
+    '2': ObjectId('6a38e7d23f695cad8babc12e'),
+    '3': ObjectId('6a38e7d23f695cad8babc12f'),
+    '4': ObjectId('6a38e7d23f695cad8babc130'),
+    '5': ObjectId('6a38e7d23f695cad8babc131'),
+    '6': ObjectId('6a38e7d23f695cad8babc132'),
+    '7': ObjectId('6a38e7d23f695cad8babc133'),
+    '8': ObjectId('6a38e7d23f695cad8babc134'),
+    '9': ObjectId('6a38e7d23f695cad8babc135')
+  }
+}
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> db.student.find()
+[
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12c'),
+    name: 'Amit',
+    age: 14,
+    standard: 8,
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12d'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: 10,
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12e'),
+    name: 'Rohan',
+    age: 13,
+    standard: 7,
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12f'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: 9,
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc130'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: 11,
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc131'),
+    name: 'Meera',
+    age: 12,
+    standard: 6,
+    percentage: 81
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc132'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: 12,
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc133'),
+    name: 'Kavya',
+    age: 14,
+    standard: 8,
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc134'),
+    name: 'Devanshi',
+    age: 15,
+    standard: 9,
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc135'),
+    name: 'Siddharth',
+    age: 16,
+    standard: 10,
+    percentage: 60.5
+  }
+]
+lj2k26> db.student.insertMany([
+|   {
+|     "name": "Amit",
+|     "age": 14,
+|     "standard": 8,
+|     "percentage": 78.5
+|   },
+|   {
+|     "name": "Priya Sharma",
+|     "age": 16,
+|     "standard": 10,
+|     "percentage": 92.3
+|   },
+|   {
+|     "name": "Rohan",
+|     "age": 13,
+|     "standard": 7,
+|     "percentage": 65.0
+|   },
+|   {
+|     "name": "Sneha Patel",
+|     "age": 15,
+lj2k26> table(db.student.find())
+ReferenceError: table is not defined
+lj2k26> console.table(db.student.find())
+┌──────────────────────────┬───────────────────┬──────────────────────────┬─────────────────────────┬───────────────────────────────────────┬──────────────────────────────────────────────────┬───────────────┬──────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬────────────────────────┬─────────────────────────────┬─────────────────────────────┬─────────────────────────────┬────────────────────────┬────────┬─────────────┬────────┬─────────────────────────────────────────────────────┬────────────┬────────┐
+│ (index)                  │ __serviceProvider │ _databases               │ _explicitEncryptionOnly │ _readPreferenceWasExplicitlyRequested │ _cachedDatabaseNames                             │ _connectionId │ _instanceState       │ _connectionInfo                                                                                                                                 │ allowDiskUse           │ collation              │ comment                │ maxAwaitTimeMS         │ count                  │ hint                   │ max                    │ min                    │ limit                  │ skip                   │ returnKey              │ showRecordId           │ project                │ sort                   │ explain                │ addCursorFlag          │ withReadPreference     │ withReadConcern        │ batchSize              │ hasNext                │ close                  │ maxTimeMS              │ bufferedCount          │ next                        │ tryNext                     │ toArray                     │ readBufferedDocuments  │ closed │ resumeToken │ method │ args                                                │ cursorType │ Values │
+├──────────────────────────┼───────────────────┼──────────────────────────┼─────────────────────────┼───────────────────────────────────────┼──────────────────────────────────────────────────┼───────────────┼──────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼────────────────────────┼─────────────────────────────┼─────────────────────────────┼─────────────────────────────┼────────────────────────┼────────┼─────────────┼────────┼─────────────────────────────────────────────────────┼────────────┼────────┤
+│ _mongo                   │ [Object]          │ [Object: null prototype] │ false                   │ false                                 │ [ 'admin', 'config', 'lj2k26', ... 1 more item ] │ 1             │ [ShellInstanceState] │ { connectionString: 'mongodb://127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.8.3', driverOptions: {} } │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                             │                             │                             │                        │        │             │        │                                                     │            │        │
+│ _transform               │                   │                          │                         │                                       │                                                  │               │                      │                                                                                                                                                 │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                             │                             │                             │                        │        │             │        │                                                     │            │ null   │
+│ _blockingWarningDisabled │                   │                          │                         │                                       │                                                  │               │                      │                                                                                                                                                 │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                             │                             │                             │                        │        │             │        │                                                     │            │ false  │
+│ _cursor                  │                   │                          │                         │                                       │                                                  │               │                      │                                                                                                                                                 │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [Function (anonymous)] │ [AsyncFunction (anonymous)] │ [AsyncFunction (anonymous)] │ [AsyncFunction (anonymous)] │ [Function (anonymous)] │ false  │ undefined   │        │                                                     │            │        │
+│ _constructionOptions     │                   │                          │                         │                                       │                                                  │               │                      │                                                                                                                                                 │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                             │                             │                             │                        │        │             │ 'find' │ [ 'lj2k26', 'student', undefined, ... 1 more item ] │ 'Cursor'   │        │
+│ _chains                  │                   │                          │                         │                                       │                                                  │               │                      │                                                                                                                                                 │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                        │                             │                             │                             │                        │        │             │        │                                                     │            │        │
+│ _currentIterationResult  │                   │                          │                         │                                       │                                                  │               │                      │                                                                                 
+lj2k26> console.table(db.student.find().toArray())
+┌─────────┬──────────────────────────────────────┬────────────────┬─────┬──────────┬────────────┐
+│ (index) │ _id                                  │ name           │ age │ standard │ percentage │
+├─────────┼──────────────────────────────────────┼────────────────┼─────┼──────────┼────────────┤
+│ 0       │ ObjectId('6a38e7d23f695cad8babc12c') │ 'Amit'         │ 14  │ 8        │ 78.5       │
+│ 1       │ ObjectId('6a38e7d23f695cad8babc12d') │ 'Priya Sharma' │ 16  │ 10       │ 92.3       │
+│ 2       │ ObjectId('6a38e7d23f695cad8babc12e') │ 'Rohan'        │ 13  │ 7        │ 65         │
+│ 3       │ ObjectId('6a38e7d23f695cad8babc12f') │ 'Sneha Patel'  │ 15  │ 9        │ 88.9       │
+│ 4       │ ObjectId('6a38e7d23f695cad8babc130') │ 'Vikram Singh' │ 17  │ 11       │ 74.2       │
+│ 5       │ ObjectId('6a38e7d23f695cad8babc131') │ 'Meera'        │ 12  │ 6        │ 81         │
+│ 6       │ ObjectId('6a38e7d23f695cad8babc132') │ 'Arjun Kumar'  │ 18  │ 12       │ 95.6       │
+│ 7       │ ObjectId('6a38e7d23f695cad8babc133') │ 'Kavya'        │ 14  │ 8        │ 70.4       │
+│ 8       │ ObjectId('6a38e7d23f695cad8babc134') │ 'Devanshi'     │ 15  │ 9        │ 84.7       │
+│ 9       │ ObjectId('6a38e7d23f695cad8babc135') │ 'Siddharth'    │ 16  │ 10       │ 60.5       │
+└─────────┴──────────────────────────────────────┴────────────────┴─────┴──────────┴────────────┘
+
+lj2k26> db.student.find().sort({ age: -1 })
+[
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc132'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: 12,
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc130'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: 11,
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12d'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: 10,
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc135'),
+    name: 'Siddharth',
+    age: 16,
+    standard: 10,
+    percentage: 60.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12f'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: 9,
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc134'),
+    name: 'Devanshi',
+    age: 15,
+    standard: 9,
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12c'),
+    name: 'Amit',
+    age: 14,
+    standard: 8,
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc133'),
+    name: 'Kavya',
+    age: 14,
+    standard: 8,
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12e'),
+    name: 'Rohan',
+    age: 13,
+    standard: 7,
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc131'),
+    name: 'Meera',
+    age: 12,
+    standard: 6,
+    percentage: 81
+  }
+]
+lj2k26> db.student.find().sort({ age: -1 }).toArray()[0]
+{
+  _id: ObjectId('6a38e7d23f695cad8babc132'),
+  name: 'Arjun Kumar',
+  age: 18,
+  standard: 12,
+  percentage: 95.6
+}
+lj2k26> db.student.find().sort({ age: -1 }).toArray()
+[
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc132'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: 12,
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc130'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: 11,
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12d'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: 10,
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc135'),
+    name: 'Siddharth',
+    age: 16,
+    standard: 10,
+    percentage: 60.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12f'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: 9,
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc134'),
+    name: 'Devanshi',
+    age: 15,
+    standard: 9,
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12c'),
+    name: 'Amit',
+    age: 14,
+    standard: 8,
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc133'),
+    name: 'Kavya',
+    age: 14,
+    standard: 8,
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12e'),
+    name: 'Rohan',
+    age: 13,
+    standard: 7,
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc131'),
+    name: 'Meera',
+    age: 12,
+    standard: 6,
+    percentage: 81
+  }
+]
+lj2k26> db.student.find().sort({ age: -1 })
+[
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc132'),
+    name: 'Arjun Kumar',
+    age: 18,
+    standard: 12,
+    percentage: 95.6
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc130'),
+    name: 'Vikram Singh',
+    age: 17,
+    standard: 11,
+    percentage: 74.2
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12d'),
+    name: 'Priya Sharma',
+    age: 16,
+    standard: 10,
+    percentage: 92.3
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc135'),
+    name: 'Siddharth',
+    age: 16,
+    standard: 10,
+    percentage: 60.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12f'),
+    name: 'Sneha Patel',
+    age: 15,
+    standard: 9,
+    percentage: 88.9
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc134'),
+    name: 'Devanshi',
+    age: 15,
+    standard: 9,
+    percentage: 84.7
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12c'),
+    name: 'Amit',
+    age: 14,
+    standard: 8,
+    percentage: 78.5
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc133'),
+    name: 'Kavya',
+    age: 14,
+    standard: 8,
+    percentage: 70.4
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc12e'),
+    name: 'Rohan',
+    age: 13,
+    standard: 7,
+    percentage: 65
+  },
+  {
+    _id: ObjectId('6a38e7d23f695cad8babc131'),
+    name: 'Meera',
+    age: 12,
+    standard: 6,
+    percentage: 81
+  }
+]
+lj2k26> db.student.find().sort({ age: -1 }).toArray()[0].toArray()
+TypeError: db.student.fin ... y()[0].toArray is not a function
+lj2k26> db.student.find().sort({ age: -1 }).toArray()[0]
+{
+  _id: ObjectId('6a38e7d23f695cad8babc132'),
+  name: 'Arjun Kumar',
+  age: 18,
+  standard: 12,
+  percentage: 95.6
+}
+lj2k26> db.student.find({},{name:1}).sort({ age: -1 }).toArray()[0]
+{ _id: ObjectId('6a38e7d23f695cad8babc132'), name: 'Arjun Kumar' }
+lj2k26> db.student.find({name:1}).sort({ age: -1 }).toArray()[0]
+
+lj2k26> db.student.find({},{name:1,_id:0}).sort({ age: -1 }).toArray()[0]
+{ name: 'Arjun Kumar' }
+lj2k26> db.student.find({},{name:1,_id:0}).sort({ age: 1 }).toArray()[0]
+{ name: 'Meera' }
+lj2k26> db.student.deleteMany({standard:12})
+{ acknowledged: true, deletedCount: 1 }
+lj2k26> db.createCollection('product')
+{ ok: 1 }
+lj2k26> db.product.insertMany([
+|
+| {_id:1,brand:"samsung",price:29000,cat:"mobile"},
+|
+| {_id:2,brand:"nokia",price:5000,cat:"mobile"},
+|
+| {_id:3,brand:"vivo",price:16000,cat:"mobile"},
+|
+| {_id:4,brand:"samsung",price:60000,cat:"tv"},
+|
+| {_id:5,brand:"samsung",price:40000,cat:"washing machine"},
+|
+| {_id:6,brand:"ifb",price:45000,cat:"wasing machine"},
+|
+| {_id:7,brand:"apple",price:120000,cat:"mobile"},
+|
+| {_id:8,brand:"oppo",price:20000,cat:"mobile"},
+|
+| {_id:9,brand:"sony",price:80000,cat:"tv"},
+|
+| {_id:10,brand:"vivo",price:31000,cat:"mobile"},
+|
+| ])
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': 1,
+    '1': 2,
+    '2': 3,
+    '3': 4,
+    '4': 5,
+    '5': 6,
+    '6': 7,
+    '7': 8,
+    '8': 9,
+    '9': 10
+  }
+}
+lj2k26>

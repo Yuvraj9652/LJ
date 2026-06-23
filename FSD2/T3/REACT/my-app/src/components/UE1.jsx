@@ -7,7 +7,7 @@ function UE1() {
   const SA=() =>{
     setStateA(stateA + 1);
   }
-    const SB=() =>{
+  const SB=() =>{
     setStateB(stateB + 1);
   }
   const SC=() =>{
@@ -16,7 +16,7 @@ function UE1() {
 
   useEffect(() => {
     alert("State has changed!");
-    },[stateA, stateB]);
+  },[stateA, stateB]);
 
   return (
     <>
