@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>IPE</th>
+            <th>GP</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        {% for item in data %}
+        <tr>
+            <td>{{item.name}}</td>
+            <td>{{item.email}}</td>
+            <td>{{item.ipe}}</td>
+            <td>{{item.gp}}</td>
+            <td><a href="{% url 'edit' item.name %}">Edit</td>
+            <td><a href="{% url 'delete' item.name %}">Delete</td>
+        </tr>
+        {% endfor %}
+     
+    </table>
+    <a href="{% url 'add' %}">Add Student</a>
+</body>
+</html>

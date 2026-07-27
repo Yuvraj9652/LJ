@@ -4,11 +4,11 @@ from .models import Evaluation
 # Create your views here.
 def home(request):
     data = Evaluation.objects.all()
-    return render(request,'home.html',{"l":data})
+    return render(request,'school/home.html',{"l":data})
 
 def info(request,id):
     fac = get_object_or_404(Evaluation,id=id)
-    return render(request,'info.html',{'f':fac})
+    return render(request,'school/info.html',{'f':fac})
 
 def adddata(request):
     if request.method=="POST":
@@ -25,10 +25,10 @@ def adddata(request):
             email=email
         )
         return redirect('home')
-    return render(request,'add.html')
+    return render(request,'school/add.html')
 
 def update(request,id):
-    fac=Evaluation.objects.get(id=id)
+    fac=get_object_or_404(Evaluation,id=id)
 
     if request.method=="POST":
         fac.name=request.POST.get("name")
@@ -38,4 +38,9 @@ def update(request,id):
 
         fac.save()
         return redirect('home')
-    return render(request,'update.html',{'f':fac})
+    return render(request,'school/update.html',{'f':fac})
+
+def delete(request,id):
+    fac=Evaluation.objects.get(id=id)
+    fac.delete()
+    return redirect('home')

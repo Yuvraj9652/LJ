@@ -1,0 +1,10 @@
+from django.db import models
+
+# Create your models here.
+class Players(models.Model):
+    name=models.CharField(max_length=50)
+    innings=models.PositiveIntegerField()
+    runs=models.PositiveIntegerField()
+
+    def __str__(self):
+        return self.name

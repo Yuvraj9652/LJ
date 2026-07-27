@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Page</title>
+</head>
+<body>
+   <h1>Data page</h1>
+   <form>
+        Name :<input type="txt" name="name"/>
+        IPE :<input type="txt" name="ipe"/>
+        GP:<input type="txt" name="gp"/>
+    <button type="submit">Search</button>
+    </form>
+   <table border="1">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>IPE</th>
+                <th>GP</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for i in data%}
+            <tr>
+                <td>{{i.name}}</td>
+                <td>{{i.email}}</td>
+                <td>{{i.ipe}}</td>
+                <td>{{i.gp}}</td>
+                <td><a href="{% url "edit" i.name %}" />Edit</a>|<a href="{% url 'delete' i.name %}">Delete</a></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+   </table>
+   <p><a href="{% url "add"  %}" >Add</a> </p><br>
+   
+   {% for j in data %}
+    <p>
+        {{i.name}}
+        {{i.email}}
+        {{i.ipe}}
+        {{i.gp}}
+    </p>
+   {% endfor %}
+</body>
+</html>

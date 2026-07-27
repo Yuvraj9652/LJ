@@ -1,0 +1,12 @@
+{% extends 'nav.html' %}
+{% block title %}Add{% endblock %}
+{% block content %}
+    <form method="post">
+        {% csrf_token %}
+        Name: <input name="name" type="text"><br><br>
+        Innings: <input name="innings" type="text"><br><br>
+        Runs: <input name="runs" type="number"><br><br>
+
+        <input type="submit" value="Add">
+    </form>
+{% endblock %}

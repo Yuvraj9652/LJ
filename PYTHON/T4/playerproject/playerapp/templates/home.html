@@ -1,0 +1,37 @@
+{% extends 'nav.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<h1>All Players</h1>
+<form method="get" action="{% url 'home' %}">
+    <input type="text" name="p" placeholder="Search by name">
+    <button type="submit">Search</button>
+</form>
+<br>
+<a href="{% url 'addplayer' %}">Add New Player</a>
+{% if p %}
+<table border="1">
+    <thead>
+        <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Test Innings</th>
+        <th>Runs</th>
+        <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for i in p %}
+        <tr>
+            <td>{{ i.id }}</td>
+            <td>{{ i.name }}</td>
+            <td>{{ i.innings }}</td>
+            <td>{{ i.runs }}</td>
+            <td><a href="{% url 'edit' i.id %}">Edit</a>|<a href="{% url 'delete' i.id %}">Delete</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% else %}
+<h2>No Players Found</h2>
+{% endif %}
+{% endblock %}

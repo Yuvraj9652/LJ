@@ -1,0 +1,22 @@
+OrderID,CustomerID,OrderDate,Region,Category,Product,Quantity,OrderAmount,DiscountPct,ShippingCost,Profit,PaymentMethod,Channel,DeliveryStatus,CustomerRating
+1001,C001,2026-01-05,West,Electronics,Laptop,1,72000,0.1,900,8500,UPI,Online,Delivered,4.6
+1002,C002,2026-01-06,North,Furniture,Office Chair,3,18000,,1200,2400,Credit Card,Store,Delivered,4.1
+1003,C003,2026-01-07,South,Electronics,Headphones,5,12500,0.05,450,1800,Debit Card,Online,Delivered,4.4
+1004,C004,2026-01-08,East,Clothing,Jacket,4,9600,0.15,300,1100,UPI,Online,Returned,
+1005,C005,2026-01-09,West,Grocery,Organic Rice,10,8500,0.02,250,900,Cash,Store,Delivered,3.9
+1006,C006,2026-01-10,North,Electronics,Smartphone,2,68000,0.08,700,7600,Credit Card,Online,Delivered,4.8
+1007,C007,2026-01-11,South,Furniture,Study Table,2,30000,,1500,4200,UPI,Store,Delayed,4.0
+1008,C008,2026-01-12,East,Clothing,Shoes,6,15000,0.12,500,2100,Debit Card,Online,Delivered,4.3
+1009,C009,2026-01-13,West,Electronics,Tablet,3,54000,0.07,650,6900,Credit Card,Online,Delivered,4.7
+1010,C010,2026-01-14,North,Grocery,Protein Pack,8,14400,0.03,350,1600,UPI,Store,Cancelled,3.8
+1011,C011,2026-01-15,South,Clothing,T-Shirt,12,7200,0.2,280,950,Cash,Online,Delivered,4.2
+1012,C012,2026-01-16,East,Electronics,Monitor,4,48000,0.09,800,6100,Credit Card,Store,Delivered,4.5
+1013,C013,2026-01-17,West,Furniture,Bookshelf,2,22000,0.06,1300,3300,Debit Card,Online,Returned,3.7
+1014,C014,2026-01-18,North,Clothing,Jeans,7,13300,,420,1750,UPI,Online,Delivered,4.0
+1015,C015,2026-01-19,South,Grocery,Coffee Beans,9,11700,0.04,320,1400,Cash,Store,Delivered,
+1016,C016,2026-01-20,East,Furniture,Sofa,1,42000,0.11,2000,5200,Credit Card,Store,Delayed,4.1
+1017,C017,2026-01-21,West,Electronics,Camera,2,56000,0.1,750,7200,UPI,Online,Delivered,4.9
+1018,C018,2026-01-22,North,Grocery,Dry Fruits,6,15600,0.05,360,1900,Debit Card,Online,Delivered,4.4
+1019,C019,2026-01-23,South,Furniture,Bed Frame,1,38000,0.08,1700,4600,Credit Card,Store,Returned,3.9
+1020,C020,2026-01-24,East,Clothing,Formal Shirt,10,16000,0.18,520,2300,UPI,Online,Delivered,4.6
+1017,C017,2026-01-21,West,Electronics,Camera,2,56000,0.1,750,7200,UPI,Online,Delivered,4.9

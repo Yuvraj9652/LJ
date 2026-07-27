@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Page</title>
+</head>
+<body>
+    <form method="POST">
+        {% csrf_token%}
+       Name: <input type="text" value={{fb.name}} name="name" id="name"  /><br>
+       Email: <input type="email" value={{fb.email}} name="email" id="email" /><br>
+       IPE: <input type="number" value={{fb.ipe}} name="ipe" id="ipe"  /><br>
+       GP: <input type="number"  value={{fb.gp}} name="gp" id="gp" />
+       <input type="submit" value="edit" />
+    </form>
+
+</body>
+</html>

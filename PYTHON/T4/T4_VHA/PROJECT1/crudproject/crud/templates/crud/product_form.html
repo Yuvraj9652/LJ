@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head><title>Product Form</title></head>
+<body>
+<h1>{% if product %}Edit{% else %}Add{% endif %} Product</h1>
+<form method="POST">
+{% csrf_token %}
+<input type="text" name="name" value="{{ product.name|default:'' }}" required>
+<input type="number" name="price" value="{{ product.price|default:'' }}" required>
+<input type="number" name="quantity" value="{{ product.quantity|default:'' }}" required>
+<textarea name="description">{{ product.description|default:'' }}</textarea>
+<button type="submit">Save</button>
+</form>
+<a href="{% url 'product_list' %}">Cancel</a>
+</body>
+</html>

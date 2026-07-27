@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><title>Products</title></head>
+<body>
+<h1>Products</h1>
+<a href="{% url 'product_create' %}">Add Product</a>
+<form method="GET">
+<input type="text" name="q" placeholder="Search..." value="{{ request.GET.q }}">
+<button type="submit">Search</button>
+</form>
+<table border="1">
+<tr>
+    <th>Name</th>
+<th>Price</th>
+<th>Quantity</th>
+<th>Action</th>
+</tr>
+{% for product in products %}
+<tr>
+<td><a href="{% url 'product_detail' product.pk %}">{{ product.name }}</a></td>
+<td>{{ product.price }}</td>
+<td>{{ product.quantity }}</td>
+<td>
+<a href="{% url 'product_edit' product.pk %}">Edit</a>
+<a href="{% url 'product_delete' product.pk %}">Delete</a>
+</td>
+</tr>
+{% endfor %}
+</table>
+</body>
+</html>

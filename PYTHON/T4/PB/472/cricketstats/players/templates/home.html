@@ -1,0 +1,14 @@
+<html>
+<h2>Players List</h2>
+
+<ul>
+{% for player in players %}
+    <li>
+        <a href="/player/{{ player.id }}/">
+            {{ player.player_name }}
+        </a>
+    </li>
+{% endfor %}
+</ul>
+
+</html>

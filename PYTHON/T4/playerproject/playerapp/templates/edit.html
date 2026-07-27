@@ -1,0 +1,12 @@
+{% extends 'nav.html' %}
+{% block title %}Edit{% endblock %}
+{% block content %}
+    <form method="post">
+        {% csrf_token %}
+        Name: <input name="name" type="text" value={{ p.name }}><br><br>
+        Innings: <input name="innings" type="text" value={{ p.innings }}><br><br>
+        Runs: <input name="runs" type="number" value={{ p.runs }}><br><br>
+
+        <input type="submit" value="Update">
+    </form>
+{% endblock %}

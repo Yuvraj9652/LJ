@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faculty List</title>
+</head>
+<body>
+    <h1>This is a Faculty List</h1>
+    <h1><a href="{% url 'home' %}">Home</a></h1>
+    <table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Course</th>
+                <th>Score</th>
+                <th>Email</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for i in l %}
+            <tr>
+                <td ><a href="{% url 'info' i.id %} style='text-decorations:none;'">{{i.id}}</a></td>
+                <td>{{i.name}}</td>
+                <td>{{i.course}}</td>
+                <td>{{i.score}}</td>
+                <td>{{i.email}}</td>
+                <td><a href="{% url 'update' i.id %}">Update</a></td>
+                <td><a href="{% url 'delete' i.id %}">Delete</a></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <button><a href="{% url 'adddata' %}">Add Student</button>
+
+</body>
+</html>
